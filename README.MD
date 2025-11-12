@@ -24,7 +24,6 @@
 
 ### Signature Analysis
 - Stolen/fake certificate detection
-- Known malware developer signatures
 
 ### Renamed Executables
 Detects disguised system tools (e.g., cmd.exe renamed as chrome.exe)
